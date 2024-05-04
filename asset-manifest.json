@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/erdemirbehiye/logbook/static/css/main.33d51a89.css",
-    "main.js": "/erdemirbehiye/logbook/static/js/main.62d9b9fe.js",
-    "static/js/453.5b0edad3.chunk.js": "/erdemirbehiye/logbook/static/js/453.5b0edad3.chunk.js",
-    "static/media/image01.png": "/erdemirbehiye/logbook/static/media/image01.61048a6006c712597d41.png",
-    "index.html": "/erdemirbehiye/logbook/index.html",
-    "main.33d51a89.css.map": "/erdemirbehiye/logbook/static/css/main.33d51a89.css.map",
-    "main.62d9b9fe.js.map": "/erdemirbehiye/logbook/static/js/main.62d9b9fe.js.map",
-    "453.5b0edad3.chunk.js.map": "/erdemirbehiye/logbook/static/js/453.5b0edad3.chunk.js.map"
+    "main.css": "/logbook/static/css/main.33d51a89.css",
+    "main.js": "/logbook/static/js/main.f46646a4.js",
+    "static/js/453.5b0edad3.chunk.js": "/logbook/static/js/453.5b0edad3.chunk.js",
+    "static/media/image01.png": "/logbook/static/media/image01.61048a6006c712597d41.png",
+    "index.html": "/logbook/index.html",
+    "main.33d51a89.css.map": "/logbook/static/css/main.33d51a89.css.map",
+    "main.f46646a4.js.map": "/logbook/static/js/main.f46646a4.js.map",
+    "453.5b0edad3.chunk.js.map": "/logbook/static/js/453.5b0edad3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33d51a89.css",
-    "static/js/main.62d9b9fe.js"
+    "static/js/main.f46646a4.js"
   ]
 }
