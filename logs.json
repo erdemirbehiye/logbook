@@ -1,0 +1,44 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "date": "2024-05-05",
+      "time_start": "09:15 AM",
+      "time_end": "09:16 AM",
+      "call_sign": "TA3KBE",
+      "mode": "FM",
+      "power": "<52.8 mW",
+      "frequency": "100.110 MHz",
+      "band": "VHF",
+      "location": "Ogaki, Tokyo",
+      "image": "/images/image01.png",
+      "signalOut": true,
+      "signalIn": true,
+      "reportOut": true,
+      "reportIn": true,
+      "qslOut": true,
+      "qslIn": true,
+      "remarks": "Link"
+    },
+    {
+      "id": 2,
+      "date": "2024-05-05",
+      "time_start": "09:15 AM",
+      "time_end": "09:16 AM",
+      "call_sign": "TA3KBE",
+      "mode": "FM",
+      "power": "<52.8 mW",
+      "frequency": "100.110 MHz",
+      "band": "VHF",
+      "location": "35.356234, 136.615973",
+      "image": "/images/image01.png",
+      "signalOut": true,
+      "signalIn": true,
+      "reportOut": true,
+      "reportIn": true,
+      "qslOut": true,
+      "qslIn": true,
+      "remarks": "Link"
+    }
+  ]
+}
